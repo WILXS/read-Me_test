@@ -1,8 +1,8 @@
 # read-Me_test
 
 
-Hello Word!; 
+Hello Word!
+Clearing lines
 
-Resdfsdfsf
 
-add line : tiest ot github
+//test ot github
